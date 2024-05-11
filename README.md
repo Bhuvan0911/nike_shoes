@@ -1,4 +1,4 @@
-# Nike Landing Page with GSAP
+# Nike Landing Page with GSAP library
 
 Welcome to the Nike Landing Page project! This is a simple web page built using HTML, CSS, and GSAP for animations. This project aims to replicate a part of the Nike website's landing page.
 
